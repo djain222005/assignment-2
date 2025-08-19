@@ -2,8 +2,8 @@
 #include<string>
 using namespace std;
 int main(){
-    string s1="NIKHIL";
-    string s2="GARG";
+    string s1="DRISHTI";
+    string s2="JAIN";
     string s3;
 int n=sizeof(s1)/sizeof(string);
 int m=sizeof(s2)/sizeof(string);
